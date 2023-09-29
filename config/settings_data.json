@@ -1,3 +1,20 @@
 {
-  "current": {}
+  "current": "Default",
+  "presets": {
+    "Default": {
+      "color_schemes": {
+        "background-1": {
+          "settings": {
+            "background": "#FFFFFF",
+            "background_gradient": "",
+            "text": "#121212",
+            "button": "#121212",
+            "button_label": "#FFFFFF",
+            "secondary_button_label": "#121212",
+            "shadow": "#121212"
+          }
+        }
+      }
+    }
+  }
 }
